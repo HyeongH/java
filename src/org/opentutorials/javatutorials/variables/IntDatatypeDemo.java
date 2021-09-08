@@ -16,8 +16,8 @@ public class IntDatatypeDemo {
 		System.out.println(c);
 		
 		long d = -9223372036854775808l;
-		System.out.println(d);
 		//long = -9,223,372,036,854,775,808 ~ 9,223,372,036,854,775,807
+		System.out.println(d);
 		
 		double e = 12312123123123d;
 		System.out.println(e);
