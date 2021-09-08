@@ -1,6 +1,6 @@
 package org.opentutorials.javatutorials.variables;
 
-public class IntergerDemo {
+public class IntegerDemo {
 
 	public static void main(String[] args) {
 		int a;
