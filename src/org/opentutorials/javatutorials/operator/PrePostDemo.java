@@ -9,7 +9,7 @@ public class PrePostDemo {
 	        ++i;
 	        System.out.println(i); 
 	        System.out.println(++i);
-	        System.out.println(i++); //Ãâ·Â ÈÄ +1
+	        System.out.println(i++); //after printing it, +1
 	        System.out.println(i);
 
 	}
